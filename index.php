@@ -9,7 +9,7 @@
 
     <div class="max-w-screen-xl mx-auto bg-white rounded p-2 shadow-md " style="background-image: url('starry-night-sky.jpg')">
         <h1 class="text-2xl font-semibold mb-4 p-2 font-mono text-center text-white" >5-Day Weather Forecast Of Dhaka</h1>
-        <button class="border rounded bg-blue-100 flex flex-wrap max-w-md mx-auto bg-white rounded p-2 shadow-md p-2 outline outline-offset-4 text-red-600 border-red "><a href="index2.php">Reload</a></button><br>
+        <button class="border rounded bg-blue-100 flex flex-wrap max-w-md mx-auto bg-white rounded p-2 shadow-md p-2 outline outline-offset-4 text-red-600 border-red "><a href="index.php">Reload</a></button><br>
 
         <?php
         
